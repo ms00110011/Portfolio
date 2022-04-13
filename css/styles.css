@@ -154,6 +154,7 @@ p {
 /* section */
 .section {
   padding: 5rem 0;
+  margin-left: 250px;
 }
 
 .section-center {
