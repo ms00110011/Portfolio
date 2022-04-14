@@ -371,6 +371,7 @@ Hero
   .hero-img {
     display: block;
     position: relative;
+    width: 50%;
   }
   .hero-center {
     grid-template-columns: 1fr 1fr;
