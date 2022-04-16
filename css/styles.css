@@ -13,6 +13,9 @@ Variables
 html {
   scroll-behavior: smooth;
 }
+
+
+
 :root {
   /* dark shades of primary color*/
   --clr-primary-1: hsl(43, 86%, 17%);
